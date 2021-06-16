@@ -65,7 +65,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`id`, `unique_id`, `fname`, `lname`, `email`, `password`, `img`, `status`) VALUES
 (1, 961549920, 'KUSH', 'JUTHNAI', 'juh@gmail.com', '12345678', '162358645531r6PyvYd2L._SX38_SY50_CR,0,0,38,50_.jpg', 'Active now'),
-(2, 1513646891, 'alok', 'guriya', 'alokguriya@gmail.com', '12345678', '162359459781P9QKTWUPL._UL1500_.jpg', 'Active now');
+(2, 1513646891, 'alok', 'guriya', 'alo@gmail.com', '12345678', '162359459781P9QKTWUPL._UL1500_.jpg', 'Active now');
 
 --
 -- Indexes for dumped tables
